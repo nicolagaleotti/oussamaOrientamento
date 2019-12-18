@@ -19,7 +19,7 @@
         <TextBox Name="txtDay" HorizontalAlignment="Left" Height="26" Margin="270,85,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox Name="txtMonth" HorizontalAlignment="Left" Height="23" Margin="270,143,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox Name="txtYear" HorizontalAlignment="Left" Height="23" Margin="270,198,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Button Name="btnCalcola" Content="calcola" HorizontalAlignment="Left" Margin="270,268,0,0" VerticalAlignment="Top" Width="120" Height="37" Click="btnCalcola_Click"/>
+        <Button Name="btnCalcola" Content="calcola" HorizontalAlignment="Left" Margin="270,268,0,0" VerticalAlignment="Top" Width="120" Height="37" Click="btnCalcola_Click" Foreground="White" Background="Red"/>
         <Label Name="lblResult" Content="" HorizontalAlignment="Left" Margin="90,355,0,0" VerticalAlignment="Top" Width="300"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="90,240,0,0" VerticalAlignment="Top" Width="100"/>
         <Image Margin="55,230,286,80" Source="Penguins.jpg" Stretch="Fill"/>
